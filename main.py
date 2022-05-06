@@ -1,6 +1,6 @@
 import numpy as np
 
-from std_operation import Add, Subtract
+from std_operations import Add, Subtract
 
 from linalg import ScalProd
 
