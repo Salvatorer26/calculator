@@ -1,6 +1,6 @@
 import numpy as np
 
-from std_operation import Add, Substract
+from std_operation import Add, Subtract
 
 from linalg import ScalProd
 
@@ -10,7 +10,7 @@ b=3.14
 c=Add(a,b)
 
 c= Add(a,b)
-d = Substract(a,b)
+d = Subtract(a,b)
 
 print("{}+{}={}\n[{}-{}".format(a,b,c,a,b,d))
 u = np.array((1, 0.5, -3.14))
