@@ -1,7 +1,7 @@
 def Add (a,b):
     return a+b
 
-def Susbtract (a,b):
+def Subtract (a,b):
     return a -b
 
 def Multiply (a,b):
